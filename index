@@ -32,7 +32,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">LMP Studios</a>
+                <a class="navbar-brand page-scroll" href="#page-top">Chester RolePlay</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -67,9 +67,9 @@
     <header id="">
         <div class="container">
             <div class="intro-text" id="">
-                <div class="intro-lead-in" id="">Welcome To Our LMP Studios</div>
+                <div class="intro-lead-in" id="">Welcome To Chester RP</div>
                 <div class="intro-heading">It's Nice To see You</div>
-                <a href="https://discord.gg/FtqkPbUyXW" class="page-scroll btn btn-xl">join us now</a>
+                <a href="https://discord.gg/dXC6sYnnQ9" class="page-scroll btn btn-xl">join us now</a>
             </div>
         </div>
     </header>
@@ -88,7 +88,7 @@
             </div>
             <div class="row">
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="https://lmpstudios.pw" class="portfolio-link">
+                    <a href="https://chesterrp.co.uk" class="portfolio-link">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
@@ -97,12 +97,12 @@
                         <img src="images/roundicons.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4 id="">Sandy Shores</h4>
-                        <p class="text-muted">Our DOJRP map/</p>
+                        <h4 id="">Chester RP</h4>
+                        <p class="text-muted">Our main map. Map is in BETA/</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="https://lmpstudios.pw" class="portfolio-link">
+                    <a href="https://chesterrp.co.uk" class="portfolio-link">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
@@ -110,10 +110,6 @@
                         </div>
                         <img src="images/startup-framework.png" class="img-responsive" alt="">
                     </a>
-                    <div class="portfolio-caption">
-                        <h4>Asset Selling</h4>
-                        <p class="text-muted">where we sell our assets</p>
-                    </div>
                 </div>
 
 
@@ -129,14 +125,14 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading" id="">About</h2>
-                    <h3 class="section-subheading text-muted">About LMP Studios</h3>
+                    <h3 class="section-subheading text-muted">About Chester RP</h3>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-12">
 
                 </div>
-                <p id="" class="text-center">LMP Studios is ran by layton171, LMP studios is a load of games ran off of LMP and we are slowly growing! Come and join us.</p>
+                <p id="" class="text-center">Chester is ran by layton171! Come and join us.</p>
             </div>
         </div>
 
@@ -147,14 +143,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading" id="">Our Leadership Team</h2>
+                    <h2 class="section-heading" id="">Our Ownership Team</h2>
 
                 </div>
             </div>
             <div class="row">
                 <div class="col-sm-4">
                     <div class="team-member" id="">
-                        <img src="https://images-ext-2.discordapp.net/external/ms0Uue0kjG-IrXRyBem6vmGORwsCC_7cdELqz7BMPsM/%3Fsize%3D256/https/cdn.discordapp.com/avatars/735842569531162624/a230745627d2ca390089551bf943ecc3.png" class="img-responsive img-circle" alt="">
+                        <img src="https://cdn.discordapp.com/avatars/735842569531162624/ad0a9c871a1b895cad08271df7778f82.png?size=4096" class="img-responsive img-circle" alt="">
                         <h4 id="">Layton</h4>
                         <p class="text-muted">Owner</p>
 
@@ -162,30 +158,15 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="https://cdn.discordapp.com/avatars/516189153252343808/014e659470a39eae9638c13f5d9faa80.png?size=256" class="img-responsive img-circle" alt="">
-                        <h4>Ryan</h4>
+                        <img src="https://cdn.discordapp.com/avatars/975332969994657822/bdd2632ccd536970f06173fe9e1824a5.png?size=4096" class="img-responsive img-circle" alt="">
+                        <h4>Danny</h4>
                         <p class="text-muted">Co - Owner</p>
-
-                    </div>
-                    <div class="team-member">
-                        <img src="https://images-ext-2.discordapp.net/external/84W2GwOtkMBxotV4t3DFr1aa4w6omW6qPPyBFj4wRfE/%3Fsize%3D256/https/cdn.discordapp.com/avatars/837015020302630963/53459533ba780fc32c805423583ec03b.png" class="img-responsive img-circle" alt="">
-                        <h4>James Ford</h4>
-                        <p class="text-muted">Developer</p>
-
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="https://cdn.discordapp.com/avatars/773600005134483466/f7fe7cbbca8ba5ec34a025da815e9fa3.png?size=256" class="img-responsive img-circle" alt="">
-                        <h4>Ethan</h4>
-                        <p class="text-muted">Co - Owner</p>
-
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">This is our amazing Leadership team.&nbsp;</p>
+                    <p class="large text-muted">This is our amazing Ownership team.&nbsp;</p>
                 </div>
             </div>
         </div>
@@ -200,7 +181,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4" id="">
-                    <span class="copyright" id="">LMP Studios.pw</span>
+                    <span class="copyright" id="">chesterrp.co.uk</span>
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
@@ -214,7 +195,7 @@
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
-                        <li><a href="https://discord.gg/FtqkPbUyXW">Join Us Today</a>
+                        <li><a href="https://discord.gg/dXC6sYnnQ9">Join Us Today</a>
                         </li>
                         <li>
                         </li>
